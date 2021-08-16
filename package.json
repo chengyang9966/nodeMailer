@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "nodemailer": "^6.6.2",
+    "sib-api-v3-sdk": "^8.2.1"
+  }
+}
